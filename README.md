@@ -1,2 +1,2 @@
-# Python_Plotting
+# Python_Plotting_Script
 This is a Python Script for Stress-Strain Curve Calculations with the ability to zoom-in for a specific x and y range.
