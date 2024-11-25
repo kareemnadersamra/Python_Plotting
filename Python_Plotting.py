@@ -12,7 +12,7 @@ import matplotlib.pyplot as plt
 from matplotlib.patches import ConnectionPatch
 
 #This plotting is for Form3 Tension.
-df1 = pd.read_excel(r'/Users/kareem/Desktop/Research Proposal/Paracetamol Prediction Project/Strain-Stress PCM Study/Bulk_Burch/Enthalphy/Enthalpy_Burch/NEW_Accurate/Trial_Pressure-induced-1.xlsx')
+df1 = pd.read_excel(r'')
 print(df1)
 
 
